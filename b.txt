@@ -1,1 +1,2 @@
 add b.txt to subtree
+modify parent's sb file
